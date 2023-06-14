@@ -11,8 +11,8 @@ export default class About extends Component {
             <div className="centered">
               <img 
                 className="profile_image"
-                // Image goes here
-                alt="Profile Pic"
+                src = {Professional_Headshot}
+                alt="Professional Headshot"
                 ></img>
             </div>
           </div>
